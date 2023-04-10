@@ -61,7 +61,7 @@ let arr = ['a', 'Anna', 'Stan', 'Pater', 'o', ' Robert', 12, ['dom', 'hello', 4,
 for (let i = arr.length-1; i >=0; i--) {
     console.log(arr[i]);
 }
-//console.log(arr[i]);
+console.log(arr[i]);
 
 
 
